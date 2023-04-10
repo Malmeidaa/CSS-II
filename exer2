@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receita de bolo</title>
+    <style>
+        .p1{
+            font-family:Courier;
+            font-size: larger;
+            font-style: normal;
+            font-weight: 800;
+        }
+        .p2{
+            font-family: verdana;
+            font-size: small;
+            font-style: italic;
+            font-weight: 200;
+        }
+        .p3{
+            font-family: monospace;
+            font-style: oblique;
+            font-weight: 500;
+        }
+        .p4{
+            font-family: fantasy;
+            font-size: x-small;
+            font-style: normal;
+            font-weight: 400;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Receita de bolo</h1>
+   <p class="p1">Na batedeira, bata a manteiga até que ficar esbranquiçada. Adicione aos poucos o açúcar. Bata por cerca de 5 minutos.</p>
+   <p class="p2">Junte os ovos, um a um, batendo sempre. Acrescente o sal e, em seguida, a Farinha de Trigo RENATA alternando com o leite. Desligue a batedeira e, por último, <br/>
+    misture o fermento delicadamente com uma espátula. Transfira para a forma untada e enfarinhada.</p>
+   <p class="p3">Leve ao forno preaquecido a 180°C e deixe assar por aproximadamente 40 minutos ou até que faça o teste de espetar o palito no centro do bolo e ele saia limpo.</p>
+   <p class="p4">Desenforme e sirva.</p>
+</body>
+</html>
