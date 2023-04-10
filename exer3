@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receita de bolo de chocolate</title>
+    <link rel="stylesheet" href="receita.css" type="text/css">
+</head>
+<body>
+   <h1>Receita bolo de chocolate simples</h1>
+   <p class="p1">Tempo de preparo: 50 minutos</p>
+
+    <br/> <br/> 
+    <h2>Ingredientes</h2>
+    <h3>Para a massa:</h3>
+    <ul type ="circle" >
+        <li>1 e 1/2 xícara (chá) de açúcar</li> <br/>
+        <li>2 ovos</li><br/>
+        <li>2 colheres (sopa) de manteiga</li><br/>
+        <li>2 xícaras (chá) de farinha de trigo</li><br/>
+        <li>1 xícara (chá) de chocolate em pó ou achocolatado</li><br/>
+        <li>1 colher (sopa) de fermento em pó</li><br/>
+        <li>1 xícara (chá) de leite</li><br/>   
+        <li class="li1">1 xícara (chá) de sal</li><br/> 
+
+    </ul>
+    <h3>Para a cobertura:</h3>
+    <ul type ="circle" >
+        <li>2 xícaras (chá) de leite</li> <br/>
+        <li>1 xícara (chá) de chocolate em pó</li><br/>
+        <li>1 xícara (chá) de açúcar</li><br/>
+        <li>1 colher (sopa) de manteiga</li><br/>
+
+    </ul>
+    <br/>
+
+    <h2 class="prep">Modo de preparo</h2>
+    <h3>Massa:</h3><b></b>
+    <p><b>1ºpasso:</b> Em um recipiente, bata os ovos, o açúcar e a manteiga  até formar um creme;</p>
+    <p><b>2ºpasso:</b> Com uma peneira, acrescente a farinha de trigo aos poucos, o chocolate em pó, o fermento e o leite. Bata bem todos os ingredientes até formar uma massa lisa;</p>
+    <p><b>3ºpasso:</b> Despeje a massa em uma forma untada com margarina e farinha. No forno preaquecido por 40 minutos, asse o bolo em fogo médio e alto a 200 graus. Desenforme o bolo de chocolate ainda quente.</p>
+    
+    <br/> <br/> <br/>
+    <h3>Cobertura</h3>
+    <p><b>1ºpasso:</b> Em uma panela, leve todos os ingredientes ao fogo até levantar fervura;</p>
+    <p><b>2ºpasso:</b>Despeje ainda quente em cima do bolo de chocolate e sirva em seguida.</p>
+</body>
+</html>
