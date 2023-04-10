@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS2</title>
+    <style>
+        
+
+        .px30{
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 30px;
+        }
+        .large{
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size: large;
+        }
+        .medium{
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: medium;
+        }
+        .small{
+            font-family: 'Times New Roman', Times, serif;
+            font-size: small;
+        }
+        .x-small{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: x-small;
+        }
+        .xx-small{
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-size: xx-small;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>
+        <p class="px30">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem error repudiandae aliquam. Cumque nesciunt nemo fugiat mollitia aliquam laudantium numquam quis similique illum excepturi eaque modi saepe, adipisci magni distinctio.</p>
+        <p class="large">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste laboriosam soluta hic sapiente quis distinctio molestias ut, commodi quibusdam quae ab consequuntur voluptate nisi, facilis nostrum quaerat qui modi rem?</p>
+        <p class="medium">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est cumque voluptas ducimus repudiandae dolor laboriosam in aspernatur, mollitia quasi impedit ut ullam blanditiis ipsum similique quod doloremque maxime magnam vel?</p>
+        <p class="small">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga voluptatibus quas ducimus repudiandae deserunt laborum molestias autem quod nulla nisi aperiam, nostrum, commodi quos sit in incidunt expedita, corrupti necessitatibus.</p>
+        <p class="x-small">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima, temporibus fugit voluptatibus aliquid at impedit nemo corporis autem quod ex ipsa neque accusamus ab totam, odit cum. Maiores, maxime nostrum!</p>
+        <p class="xx-small">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam, quae. Nam dolore corrupti, corporis, tempore dolorum quia neque omnis voluptates illum ratione placeat recusandae sint numquam provident consequuntur aspernatur harum.</p>
+
+
+
+    </h1>
+</body>
+</html>
